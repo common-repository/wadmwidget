@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wadmwidget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-05 17:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Author <info@gerhardhoogterp.nl>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: wadmwidget.php\n"
+
+#: wadmwidget.php:132
+msgid "General info"
+msgstr ""
+
+#: wadmwidget.php:133
+msgid "Settings"
+msgstr ""
+
+#: wadmwidget.php:176
+msgid "All works (WadM)"
+msgstr ""
+
+#: wadmwidget.php:177
+msgid "No workcode"
+msgstr ""
+
+#: wadmwidget.php:178
+msgid "Has workcode"
+msgstr ""
+
+#: wadmwidget.php:229 wadmwidget.php:242
+msgid "Phototools"
+msgstr ""
+
+#: wadmwidget.php:245
+msgid ""
+"Phototools is a collection of plugins which add functionality "
+"for those\n"
+"\t\t\t\twho use WordPress to run a photoblog or gallery site or "
+"something alike."
+msgstr ""
+
+#: wadmwidget.php:249
+msgid "The following plugins in this series are installed:"
+msgstr ""
+
+#: wadmwidget.php:275 wadmwidget.php:291
+msgid "WadM widget"
+msgstr ""
+
+#: wadmwidget.php:291
+msgid "wadmwidget"
+msgstr ""
+
+#: wadmwidget.php:298
+msgid "UserID and apikey don't seem to match."
+msgstr ""
+
+#: wadmwidget.php:298
+msgid "Connection ok"
+msgstr ""
+
+#: wadmwidget.php:309
+msgid "General features"
+msgstr ""
+
+#: wadmwidget.php:310
+msgid "userid"
+msgstr ""
+
+#: wadmwidget.php:315
+msgid "apikey"
+msgstr ""
+
+#: wadmwidget.php:320
+msgid "check"
+msgstr ""
+
+#: wadmwidget.php:325
+msgid "language wadm site"
+msgstr ""
+
+#: wadmwidget.php:417
+msgid "WadM Workcode"
+msgstr ""
+
+#: wadmwidget.php:430 wadmwidget.php:482
+msgid "Oh my Print Workcode"
+msgstr ""
+
+#: wadmwidget.php:480
+msgid "Workcode"
+msgstr ""
+
+#: wadmwidget.php:648
+msgid "wadm widget"
+msgstr ""
+
+#: wadmwidget.php:650
+msgid "wadm"
+msgstr ""
+
+#: wadmwidget.php:663
+msgid "WadM"
+msgstr ""
+
+#: wadmwidget.php:668
+msgid "Widget Title"
+msgstr ""
+
+#: wadmwidget.php:673
+msgid "Widget style"
+msgstr ""
+
+#: wadmwidget.php:716 wadmwidget.php:750
+msgid "Image for sale"
+msgstr ""
